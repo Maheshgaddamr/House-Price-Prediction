@@ -50,3 +50,8 @@ Linear Regression on California Housing Dataset.
 
 ## Dataset
 California Housing Dataset
+## 🔗 Related Projects
+| Project | Algorithm | R² Score | Link |
+|---------|-----------|----------|------|
+| House Price Prediction v1 | Linear Regression | 0.6254 | This Project |
+| House Price Prediction v2 | Random Forest | 0.8164 | [Click Here](https://github.com/Maheshgaddamr/Random-Forest-House-Price) |
